@@ -1,0 +1,105 @@
+#activityId {
+    padding-bottom: 10px;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+}
+
+#item-list {
+    margin-left: 500px;
+}
+
+.announcement {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.place {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.place img {
+    width: 100%;
+    height: 300px;
+}
+
+.place hr {
+    width: 100%;
+}
+
+.place h5,
+.place p {
+    margin-left: 20px;
+}
+
+.activity {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.activity i {
+    float: right;
+}
+
+
+.news-item {
+    height: 400px;
+    margin-top: 13px;
+}
+
+.news-item h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.news-item img {
+    border-radius: 10px;
+}
+
+.news-item p {
+    margin-top: 10px;
+}
+
+.alumni {
+    cursor: pointer;
+}
+
+.alumni hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img-modal {
+    display: inline-block;
+}
+
+.modal-text {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
