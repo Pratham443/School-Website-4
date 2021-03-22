@@ -7,15 +7,6 @@
     background-color: white;
 }
 
-#logo {
-    height: 50px;
-    width: 50px;
-}
-
-#item-list {
-    margin-left: 500px;
-}
-
 .announcement {
     background-color: dodgerblue;
     color: white;
